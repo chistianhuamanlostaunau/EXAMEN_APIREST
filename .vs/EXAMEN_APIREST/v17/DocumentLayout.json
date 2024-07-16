@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EXAMEN_APIREST\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EXAMEN_APIREST\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAFkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:56:29.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Program.cs",
+              "RelativeDocumentMoniker": "EXAMEN_APIREST\\Program.cs",
+              "ToolTip": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Program.cs",
+              "RelativeToolTip": "EXAMEN_APIREST\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:51:05.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Data\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EXAMEN_APIREST\\Data\\EmployeeContext.cs",
+              "ToolTip": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Data\\EmployeeContext.cs",
+              "RelativeToolTip": "EXAMEN_APIREST\\Data\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:43:55.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EXAMEN_APIREST\\Models\\Employee.cs",
+              "ToolTip": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Models\\Employee.cs",
+              "RelativeToolTip": "EXAMEN_APIREST\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T18:42:52.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\appsettings.json",
+              "RelativeDocumentMoniker": "EXAMEN_APIREST\\appsettings.json",
+              "ToolTip": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\appsettings.json",
+              "RelativeToolTip": "EXAMEN_APIREST\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T18:39:31.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
