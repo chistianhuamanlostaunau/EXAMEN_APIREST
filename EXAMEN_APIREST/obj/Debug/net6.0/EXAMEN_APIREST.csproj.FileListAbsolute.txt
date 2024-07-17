@@ -64,3 +64,4 @@ C:\Chuaman\Examen\EXAMEN_APIREST\EXAMEN_APIREST\obj\Debug\net6.0\refint\EXAMEN_A
 C:\Chuaman\Examen\EXAMEN_APIREST\EXAMEN_APIREST\obj\Debug\net6.0\EXAMEN_APIREST.pdb
 C:\Chuaman\Examen\EXAMEN_APIREST\EXAMEN_APIREST\obj\Debug\net6.0\EXAMEN_APIREST.genruntimeconfig.cache
 C:\Chuaman\Examen\EXAMEN_APIREST\EXAMEN_APIREST\obj\Debug\net6.0\ref\EXAMEN_APIREST.dll
+C:\Chuaman\Examen\EXAMEN_APIREST\EXAMEN_APIREST\obj\Debug\net6.0\EXAMEN_APIREST.sourcelink.json

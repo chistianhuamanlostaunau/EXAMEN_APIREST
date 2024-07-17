@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|c:\\chuaman\\examen\\examen_apirest\\examen_apirest\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0491281-2022-40BD-9F34-26D36E0B53B1}|EXAMEN_APIREST\\EXAMEN_APIREST.csproj|solutionrelative:examen_apirest\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,32 +50,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EXAMEN_APIREST\\appsettings.Development.json",
+              "ToolTip": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\appsettings.Development.json",
+              "RelativeToolTip": "EXAMEN_APIREST\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T01:06:17.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Dockerfile",
+              "RelativeDocumentMoniker": "EXAMEN_APIREST\\Dockerfile",
+              "ToolTip": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Dockerfile",
+              "RelativeToolTip": "EXAMEN_APIREST\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-16T22:53:18.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "EXAMEN_APIREST\\Controllers\\EmployeesController.cs",
               "ToolTip": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Controllers\\EmployeesController.cs",
               "RelativeToolTip": "EXAMEN_APIREST\\Controllers\\EmployeesController.cs",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAAAFkAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T18:56:29.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T18:56:29.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Program.cs",
               "RelativeDocumentMoniker": "EXAMEN_APIREST\\Program.cs",
               "ToolTip": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Program.cs",
               "RelativeToolTip": "EXAMEN_APIREST\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T18:51:05.398Z"
+              "WhenOpened": "2024-07-16T18:51:05.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "EmployeeContext.cs",
               "DocumentMoniker": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Data\\EmployeeContext.cs",
               "RelativeDocumentMoniker": "EXAMEN_APIREST\\Data\\EmployeeContext.cs",
@@ -79,27 +111,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "EXAMEN_APIREST\\Models\\Employee.cs",
               "ToolTip": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\Models\\Employee.cs",
               "RelativeToolTip": "EXAMEN_APIREST\\Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T18:42:52.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\appsettings.json",
               "RelativeDocumentMoniker": "EXAMEN_APIREST\\appsettings.json",
               "ToolTip": "C:\\Chuaman\\Examen\\EXAMEN_APIREST\\EXAMEN_APIREST\\appsettings.json",
               "RelativeToolTip": "EXAMEN_APIREST\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-16T18:39:31.934Z"
+              "WhenOpened": "2024-07-16T18:39:31.934Z",
+              "EditorCaption": ""
             }
           ]
         }

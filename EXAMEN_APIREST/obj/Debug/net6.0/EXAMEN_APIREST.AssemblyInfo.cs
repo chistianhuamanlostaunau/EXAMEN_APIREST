@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EXAMEN_APIREST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce2c5c3e86ca60bd2523c303eb00cd6901c275f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("EXAMEN_APIREST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EXAMEN_APIREST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
